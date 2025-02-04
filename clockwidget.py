@@ -7,7 +7,7 @@
 # Copyright (c) 2012-2019 Sascha Ludwig, astrastudio.de
 # All rights reserved.
 #
-# start.py
+# clockwidget.py
 # This file is part of OnAirScreen
 #
 # You may use this file under the terms of the BSD license as follows:
